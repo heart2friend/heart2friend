@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Amit Shinde, I'm a passionate developer with a love for solving complex problems and building amazing applications. Research and Development is my favorite topic. My expertise lies in JavaScript, TypeScript, C# and I have experience working with React Native, Xamarin,.Net Core, Web API, Angular, VueJS. I am always eager to learn and explore new technologies, and I enjoy collaborating with other developers to build innovative solutions. When I'm not coding, you can find me watching football or movie or on adventure trip. 
+
 <!--
 **heart2friend/heart2friend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
